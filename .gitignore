@@ -32,5 +32,4 @@
 # "temporary" build files
 target-eclipse/
 /target*
-*.classpath
-*.project
+.*
