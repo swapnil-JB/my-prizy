@@ -30,6 +30,6 @@
 /web-app/plugins
 
 # "temporary" build files
-target-eclipse/
 /target*
 .*
+target\-eclipse/
