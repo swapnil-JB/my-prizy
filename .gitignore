@@ -31,4 +31,4 @@
 
 # "temporary" build files
 target/
-target-eclipse/
+/target-eclipse/
