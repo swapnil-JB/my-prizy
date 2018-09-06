@@ -19,8 +19,8 @@ Hey! This is my prizy-pricer application test.
 > - **Type**: mysql
 > - **Database Name**: 
 		<i>For Development</i>: prizydb 
->- **Username:** root
->- **Password:** java
+>- **Username:** username
+>- **Password:** password
 >> - If database is not present it will be auto created while deploying or testing application  **after giving the correct database username and password** Make sure your database properties in the file **/grails-app/conf/prizy-config.properties**  <i class="icon-refresh"></i>.
 >- Also default demo database will be inserted at application startup.
 >-  You can disable auto insertion by commenting lines in the file **/grails-app/conf/BootStrap.groovy** or change the number of products in csv file **/my-prizy/grails-app/conf/products.csv**.
